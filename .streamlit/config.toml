@@ -1,0 +1,12 @@
+[theme]
+primaryColor = "#D87D9C"  # Rose gold
+backgroundColor = "#FFFFFF"  # White
+secondaryBackgroundColor = "#FAF3F5"  # Blush pink
+textColor = "#1C1C1C"  # Charcoal gray
+font = "sans serif"
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+
